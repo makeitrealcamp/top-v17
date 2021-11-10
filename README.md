@@ -18,6 +18,8 @@
 - Jorge Adco
 - Kevin Salazar
 - Daniel Ochoa
+- Bryan Manzano
+- [Jose Diaz](profiles/jose-diaz.md)
 - [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
 - Alonso Garay
