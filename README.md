@@ -9,17 +9,19 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
-- Gilbert Huarcaya
-- Jilson Jimenez
+- [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
+- [Jilson Jimenez](profiles/jilson-jimenez.md)
 - Cesar Guevara
-- Walther Jhonny Vergaray Moreno
+- [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
-- Rodrigo Calle
+- [Rodrigo Calle](profiles/rodrigo-calle.md)
 - Jorge Adco
 - Kevin Salazar
 - Daniel Ochoa
 - Bryan Manzano
 - [Jose Diaz](profiles/jose-diaz.md)
+- [Bryan Manzano](profiles/bryan-manzano.md)
+- Jose Diaz
 - Alonso Garay
 - Carmen Calla
 - Mariana Usuga
