@@ -18,7 +18,7 @@
 - Jorge Adco
 - Kevin Salazar
 - Daniel Ochoa
-- Bryan Manzano
+- [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
 - Alonso Garay
 - Carmen Calla
