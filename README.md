@@ -10,7 +10,7 @@
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
-- Jilson Jimenez
+- [Jilson Jimenez](profiles/jilson-jimenez.md)
 - Cesar Guevara
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
@@ -18,7 +18,7 @@
 - [Jorge Adco](profiles/jorge-adco.md)
 - Kevin Salazar
 - Daniel Ochoa
-- Bryan Manzano
+- [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
 - Alonso Garay
 - Carmen Calla
