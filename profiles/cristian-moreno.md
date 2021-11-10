@@ -1,3 +1,5 @@
+# Cristian Moreno
+
 [![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/khriztianmoreno/image/upload/f_auto,g_auto/v1594300897/KM-brand/km-keyvisual.png)](https://www.khriztianmoreno.com)
 
 Hola 👋🏻, Soy Cristian Moreno. Diariamente utilizo: **JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, Serverless**, solo para nombrar los bits más importantes.
@@ -14,3 +16,19 @@ Me encanta desarrollar cosas, especialmente ideas, darles una nueva perspectiva 
 🎙📻 Producer [@commit.fm](https://anchor.fm/khriztianmoreno)
 
 🟣🎧 [#EStreamerCoders](https://www.twitch.tv/khriztianmoreno) at @twitch
+
+## Perfiles sociales
+
+- [Github](https://github.com/khriztianmoreno/)
+- [Linkedin](https://www.linkedin.com/in/khriztianmoreno/)
+- [Website](https://khriztianmoreno.dev/)
+
+
+## Experiencia Tecnica
+> En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️⭐️⭐️⭐️
+
+- Programacion: ⭐️⭐️⭐️⭐️
+- Javascript: ⭐️⭐️⭐️⭐️⭐️
+- CSS: ⭐️⭐️⭐️⭐️⭐️
+- HTML: ⭐️⭐️⭐️⭐️⭐️
+- Git: ⭐️⭐️⭐️⭐️
