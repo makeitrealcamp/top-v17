@@ -12,7 +12,7 @@
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
 - Jilson Jimenez
 - Cesar Guevara
-- Walther Jhonny Vergaray Moreno
+- [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
 - Rodrigo Calle
 - Jorge Adco
