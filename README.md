@@ -22,7 +22,7 @@
 - [Jose Diaz](profiles/jose-diaz.md)
 - [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
-- Alonso Garay
+- [Alonso Garay](profiles/alonso-garay.md)
 - Carmen Calla
 - Mariana Usuga
 
