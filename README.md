@@ -7,7 +7,7 @@
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Carlos Jaramillo
+- [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
 - Jilson Jimenez
 - Cesar Guevara
