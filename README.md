@@ -10,7 +10,7 @@
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
-- Jilson Jimenez
+- [Jilson Jimenez](profiles/jilson-jimenez.md)
 - Cesar Guevara
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
