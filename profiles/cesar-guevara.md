@@ -11,3 +11,22 @@ Me gusta mucho desarrollar y crear tecnologia que solucione problemas de la form
 👨🏼‍💻 #Javascript Developer Student
 
 💻 Electronic Engineer
+
+## Perfiles sociales
+
+- [Github](https://github.com/domakedev/)
+- [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-guevara-cabrera-4890b2140/)
+- [Website](https://domakedev.com/)
+
+
+## Experiencia Tecnica
+> En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️⭐️⭐️⭐️
+
+- Programacion: ⭐️⭐️⭐️
+- Javascript: ⭐️⭐️⭐️
+- CSS: ⭐️⭐️⭐️
+- HTML: ⭐️⭐️⭐️⭐️
+- Git: ⭐️⭐️
+- React ⭐️⭐️
+- Express ⭐️
+- MongoDB ⭐️
