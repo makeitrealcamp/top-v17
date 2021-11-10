@@ -9,7 +9,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
-- Gilbert Huarcaya
+- [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
 - Jilson Jimenez
 - Cesar Guevara
 - Walther Jhonny Vergaray Moreno
