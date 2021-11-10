@@ -15,7 +15,7 @@
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
 - Rodrigo Calle
-- Jorge Adco
+- [Jorge Adco](profiles/jorge-adco.md)
 - Kevin Salazar
 - Daniel Ochoa
 - Bryan Manzano
