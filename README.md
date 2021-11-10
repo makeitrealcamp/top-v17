@@ -10,7 +10,7 @@
 - Carlos Jaramillo
 - Gilbert Huarcaya
 - Jilson Jimenez
-- Cesar Guevara
+- [Cesar Guevara](profiles/cesar-guevara.md)
 - Walther Jhonny Vergaray Moreno
 - Juan Bernal
 - Rodrigo Calle
