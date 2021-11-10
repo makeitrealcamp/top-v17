@@ -22,7 +22,7 @@
 - Jose Diaz
 - Alonso Garay
 - Carmen Calla
-- Mariana Usuga
+- [Mariana Usuga](profiles/mariana-usuga.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
