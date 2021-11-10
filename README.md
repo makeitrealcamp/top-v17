@@ -13,7 +13,16 @@
 - Jilson Jimenez
 - Cesar Guevara
 - Walther Jhonny Vergaray Moreno
-	@@ -26,10 +25,10 @@
+- Juan Bernal
+- Rodrigo Calle
+- Jorge Adco
+- Kevin Salazar
+- Daniel Ochoa
+- Bryan Manzano
+- Jose Diaz
+- Alonso Garay
+- Carmen Calla
+- Mariana Usuga
 
 ## Como es un dia de estudio durante el programa TOP?
 
@@ -24,7 +33,11 @@ Clase Magistral con mentor principal
 Pueden ocurrir varias actividades en este rango de tiempo
 - Clase de habilidades blandas
 - Clase de ingles
-	@@ -41,13 +40,13 @@ Pueden ocurrir varias actividades en este rango de tiempo
+- Reuniones con mentores de apoyo
+- Trabajar, codificar, en tu proyecto grupal/personal
+- Resolver dudas con los mentores.
+- Planeacion del sprint
+- Demo del entregable anterior
 - Retrospectiva del spint
 - Terminar los retos o misiones que son asignados en clase
 
@@ -38,4 +51,23 @@ Clase Magistral con mentor principal
 Pueden ocurrir varias actividades en este rango de tiempo
 - Clase de habilidades blandas
 - Clase de ingles
-	
+- Reuniones con mentores de apoyo
+- Trabajar, codificar, en tu proyecto grupal/personal
+- Resolver dudas con los mentores.
+- Planeacion del sprint
+- Demo del entregable anterior
+- Retrospectiva del spint
+- Terminar los retos o misiones que son asignados en clase
+
+## Entregables proyecto grupal 💻🤝
+
+- **Modulo 1**: Wireframes y backlog del proyecto e Historias de usuario.
+- **Modulo 2**: Mockups del proyecto y Layout en HTML, CSS.
+- **Modulo 3**: Implementación de los mockups en react.
+- **Modulo 4**: Navegacion de la aplicación con datos MOCK Y Despliegue en netlify.
+- **Modulo 5**: Diseno de base de datos, Modelo de datos y servidor express.
+- **Modulo 6**: Servicios backend conectores a base de datos: REST API.
+- **Modulo 7**: Pruebas: Backend y Frontend.
+- **Modulo 8**: Envio de email e Integración con pasarela de pagos.
+- **Modulo 9**: CI/CD del backend y el frontend.
+- **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
