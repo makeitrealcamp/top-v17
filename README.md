@@ -17,7 +17,7 @@
 - [Rodrigo Calle](profiles/rodrigo-calle.md)
 - Jorge Adco
 - Kevin Salazar
-- Daniel Ochoa
+- [Daniel Ochoa](profiles/daniel-ochoa.md)
 - Bryan Manzano
 - [Jose Diaz](profiles/jose-diaz.md)
 - [Bryan Manzano](profiles/bryan-manzano.md)
