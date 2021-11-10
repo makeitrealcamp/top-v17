@@ -16,7 +16,7 @@
 - Rodrigo Calle
 - Jorge Adco
 - Kevin Salazar
-- Daniel Ochoa
+- [Daniel Ochoa](profiles/daniel-ochoa.md)
 - Bryan Manzano
 - Jose Diaz
 - Alonso Garay
