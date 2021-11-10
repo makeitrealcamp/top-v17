@@ -14,7 +14,7 @@
 - Cesar Guevara
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
-- Rodrigo Calle
+- [Rodrigo Calle](profiles/rodrigo-calle.md)
 - Jorge Adco
 - Kevin Salazar
 - Daniel Ochoa
