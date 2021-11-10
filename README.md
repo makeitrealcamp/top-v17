@@ -1,13 +1,14 @@
-# Programa Top v17 -  Tiempo Completo
-
+# Programa Top v17 - Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
+
 - [Cristian Moreno](profiles/cristian-moreno.md)
 - Leonel Oliveros
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Carlos Jaramillo
+
+- [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - Gilbert Huarcaya
 - Jilson Jimenez
 - Cesar Guevara
@@ -70,4 +71,3 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
-
