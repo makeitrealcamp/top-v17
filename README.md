@@ -18,7 +18,7 @@
 - Kevin Salazar
 - Daniel Ochoa
 - Bryan Manzano
-- Jose Diaz
+- [Jose Diaz](profiles/jose-diaz.md)
 - Alonso Garay
 - Carmen Calla
 - Mariana Usuga
