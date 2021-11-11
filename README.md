@@ -14,7 +14,7 @@
 - [Jilson Jimenez](profiles/jilson-jimenez.md)
 - [Cesar Guevara](profiles/cesar-guevara.md)
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
-- Juan Bernal
+- [Juan Bernal](profiles/juan-bernal.md)
 - [Rodrigo Calle](profiles/rodrigo-calle.md)
 - [Jorge Adco](profiles/jorge-adco.md)
 - Kevin Salazar
