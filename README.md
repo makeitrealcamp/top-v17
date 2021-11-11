@@ -23,7 +23,7 @@
 - [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
 - [Alonso Garay](profiles/alonso-garay.md)
-- Carmen Calla
+- [Carmen Calla](profiles/nayruth-calla.md)
 - Mariana Usuga
 
 ## Como es un dia de estudio durante el programa TOP?
