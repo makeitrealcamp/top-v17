@@ -15,14 +15,14 @@
 - [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
 - [Rodrigo Calle](profiles/rodrigo-calle.md)
-- Jorge Adco
+- [Jorge Adco](profiles/jorge-adco.md)
 - Kevin Salazar
-- Daniel Ochoa
+- [Daniel Ochoa](profiles/daniel-ochoa.md)
 - [Jose Diaz](profiles/jose-diaz.md)
 - [Bryan Manzano](profiles/bryan-manzano.md)
-- Alonso Garay
-- Carmen Calla
-- Mariana Usuga
+- [Mariana Usuga](profiles/mariana-usuga.md)
+- [Alonso Garay](profiles/alonso-garay.md)
+- [Carmen Calla](profiles/nayruth-calla.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
