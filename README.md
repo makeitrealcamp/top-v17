@@ -7,6 +7,7 @@
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
+> Lista de los estudiantes mas TOP del curso, sin importar el orden
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
