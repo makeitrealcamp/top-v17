@@ -9,20 +9,23 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
-- Gilbert Huarcaya
-- Jilson Jimenez
+- [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
+- [Jilson Jimenez](profiles/jilson-jimenez.md)
 - Cesar Guevara
-- Walther Jhonny Vergaray Moreno
+- [Walther Jhonny Vergaray Moreno](profiles/walther-vergaray.md)
 - Juan Bernal
-- Rodrigo Calle
-- Jorge Adco
+- [Rodrigo Calle](profiles/rodrigo-calle.md)
+- [Jorge Adco](profiles/jorge-adco.md)
 - Kevin Salazar
-- Daniel Ochoa
+- [Daniel Ochoa](profiles/daniel-ochoa.md)
 - Bryan Manzano
+- [Jose Diaz](profiles/jose-diaz.md)
+- [Bryan Manzano](profiles/bryan-manzano.md)
 - Jose Diaz
 - Alonso Garay
-- Carmen Calla
 - [Mariana Usuga](profiles/mariana-usuga.md)
+- [Alonso Garay](profiles/alonso-garay.md)
+- [Carmen Calla](profiles/nayruth-calla.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
