@@ -7,6 +7,7 @@
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
+> Lista de los estudiantes mas TOP del curso, sin importar el orden
 
 - [Carlos Jaramillo](profiles/carlos-jaramillo.md)
 - [Gilbert Huarcaya](profiles/gilbert-huarcaya.md)
@@ -41,7 +42,7 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Retrospectiva del spint
 - Terminar los retos o misiones que son asignados en clase
 
-### 01:00 pm - 2:30 pm
+### 01:00 pm - 2:30 pm:
 Tiempo para almorzar
 
 ### 02:30 pm - 03:30 pm:

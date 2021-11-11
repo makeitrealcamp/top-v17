@@ -5,7 +5,7 @@
 ### Feeling
 [//]: <> (Como te sientes con este PR? la solucion que entregas como te hace sentir?)
 - [ ] 🤙 Solucion rapida
-- [ ] 👌 Terminado y lsito
+- [ ] 👌 Terminado y listo
 - [ ] 🤞 Espero que esto funcione, por favor revisar cuidadosamente
 
 ### Tickets
