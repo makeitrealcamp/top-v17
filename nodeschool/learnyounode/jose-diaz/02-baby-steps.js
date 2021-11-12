@@ -1,3 +1,3 @@
-const arg = process.argv.slice(2)
-const res = arg.reduce((acc,num) => acc+parseInt(num),0)
+const numbers = process.argv.slice(2)
+const res = numbers.reduce((acc,num) => acc + Number(num),0)
 console.log(res)
