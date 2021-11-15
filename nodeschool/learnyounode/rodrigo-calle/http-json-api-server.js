@@ -7,7 +7,8 @@ var parseTime = function (time) {
     return {
       hour: time.getHours(),
       minute: time.getMinutes(),
-      second: time.getSeconds()
+      second: time.getSeconds(),
+      text: console.log(time)    
     }
   }
   
@@ -25,8 +26,6 @@ var parseTime = function (time) {
         return console.log("Ha ocurrido un error")
     }
   }
-
-
 
 http.createServer((req, res)=>{
     res.writeHead(200, {'Content-Type': 'application/json'})
