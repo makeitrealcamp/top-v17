@@ -7,17 +7,22 @@ var parseTime = function (time) {
     return {
       hour: time.getHours(),
       minute: time.getMinutes(),
-      second: time.getSeconds(),
-      text: console.log(time)    
+      second: time.getSeconds()
+      //text: console.log(time)    
     }
   }
   
   function unixTime (time) {
-    return {unixtime: time.getTime()}
+    return {
+        unixtime: time.getTime(),
+        //test: console.log(time)
+    
+    }
+   
   }
   
   var parseQuery = (url)=> {
-
+    //console.log(url)
     if(url.pathname == '/api/parsetime'){
         return parseTime(new Date(url.query.iso))
     }else if(url.pathname == '/api/unixtime'){
@@ -30,6 +35,7 @@ var parseTime = function (time) {
 http.createServer((req, res)=>{
     res.writeHead(200, {'Content-Type': 'application/json'})
     let route = url.parse(req.url, true)
+    //console.log(route)
     res.end(JSON.stringify(parseQuery(route)))   
 }).listen(port)
 
