@@ -1,5 +1,5 @@
 const http = require('http')
-let outputData = ''
+let outputData = '';
 
 http.get(process.argv[2], response => {
   response.setEncoding('utf8')
@@ -11,4 +11,4 @@ http.get(process.argv[2], response => {
     console.log(outputData.length)
     console.log(outputData)
   })
-})
+});
