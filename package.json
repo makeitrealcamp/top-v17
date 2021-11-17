@@ -1,6 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "bl": "^5.0.0",
+=======
+>>>>>>> 12 - HTTP to UpperCase
     "strftime": "^0.10.0",
     "through2-map": "^3.0.0"
   }
