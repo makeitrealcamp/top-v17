@@ -4,6 +4,8 @@ In this project, we're creating an eCommerce component.
 
 You can use as many (or as few) tools, libraries, and frameworks as you'd like. If you're trying to learn something new, this would be a great way to push yourself.
 
+<img src="./preview.png">
+
 **Users should be able to:**
 
 - View the plates on the left side of the screen and add them to your cart on the right side.
