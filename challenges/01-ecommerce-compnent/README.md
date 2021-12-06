@@ -22,7 +22,7 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 3. Open the project's `README.md` file (that's this!). It has additional information on how the project is structured.
 4. Customize your project / file architecture to your liking.
 5. Happy coding!
-6. Once you're finished, share your work using **#adventofcss**
+6. Once you're finished, share your work in classroom
 
 # Taking your Project to the Next Level
 
