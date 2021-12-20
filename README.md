@@ -72,3 +72,7 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
+
+## Grabacion de las clases 🎥👨🏼‍🏫
+
+- [Clases](clases.md)
