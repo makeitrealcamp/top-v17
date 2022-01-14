@@ -59,6 +59,8 @@
 - **Context**:
     - [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-03/3Mn7Lkfkd.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-03/3Mn7Lkfkd.mp4)
     - **Ejercicio ThemeContext**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/FVOvEiR0G.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/FVOvEiR0G.mp4)
+- **Redux**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/xl9HraQB1.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/xl9HraQB1.mp4)
+- **Redux-Thunk**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/j4_BDOX1i.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/j4_BDOX1i.mp4)
 - **ENTREGABLES 4:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/EUItUI9MT.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/EUItUI9MT.mp4)
 
 ## Modulo 5:
@@ -82,3 +84,10 @@
 - **Validación de request con Joi Schema:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-16/TUIWwFWQm.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-16/TUIWwFWQm.mp4)
 - **Conectando el Frontend con el Backend:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/j46GSiFJ2.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/j46GSiFJ2.mp4)
 - **Application State Management with React Context**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/sWa8zcBIs.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/sWa8zcBIs.mp4)
+
+## Modulo 7:
+
+- **Subir Imagenes a cloudinary (Backend**):[https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/QAiY-Z-oE.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/QAiY-Z-oE.mp4)
+- **Cargar/enviar una imagen al servidor:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/wLGrvcK_x.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/wLGrvcK_x.mp4)
+- **Envio de email con NodeMailer:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4)
+- **Sendgrid y verification de cuenta:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4)
