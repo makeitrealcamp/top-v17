@@ -91,3 +91,5 @@
 - **Cargar/enviar una imagen al servidor:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/wLGrvcK_x.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-13/wLGrvcK_x.mp4)
 - **Envio de email con NodeMailer:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4)
 - **Sendgrid y verification de cuenta:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4)
+- **Payments Conceptos**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/5mGOTE_d8.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/5mGOTE_d8.mp4)
+- **ENTREGABLE 7:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/RdsPAUrPG.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/RdsPAUrPG.mp4)
