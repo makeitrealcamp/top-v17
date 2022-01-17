@@ -84,6 +84,7 @@
 - **Validación de request con Joi Schema:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-16/TUIWwFWQm.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-16/TUIWwFWQm.mp4)
 - **Conectando el Frontend con el Backend:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/j46GSiFJ2.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/j46GSiFJ2.mp4)
 - **Application State Management with React Context**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/sWa8zcBIs.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-17/sWa8zcBIs.mp4)
+- **ENTREGABLE 6**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/B2184zn-g.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/B2184zn-g.mp4)
 
 ## Modulo 7:
 
