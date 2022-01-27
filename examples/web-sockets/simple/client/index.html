@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Websockets</title>
+</head>
+<body>
+  <div id="app">
+    <h1>Sockets</h1>
+  </div>
+  <script>
+    // abrimos el Web Socket
+    const ws = new WebSocket("ws://localhost:3001/chat");
+
+    ws.onopen = function() {
+      // el Web Socket está abierto, podemos empezar a enviar mensajes
+      // con el método send
+      setInterval(() => {
+        ws.send(`{"message": "👩🏻‍💻 Hola desde el cliente", time: ${Date.now()}}`);
+      }, 3000);
+    };
+
+    ws.onmessage = function(e) {
+      // esto se invoca automáticamente cuando recibimos un mensaje
+      console.log(e.data);
+    };
+
+    ws.onclose = function() {
+      // la conexión fue cerrada
+    }
+  </script>
+</body>
+</html>
