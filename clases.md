@@ -4,7 +4,7 @@
 
 - **Introduction**:
     - Manana: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-08/nYk8klVKH.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-08/nYk8klVKH.mp4)
-    -
+    - 
 - **Scrum**:
     - Tarde: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-08/Uhn5lMv-y.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-08/Uhn5lMv-y.mp4)
     - Manana: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-09/diu9HFEh3.mp](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-09/diu9HFEh3.mp4)
@@ -32,7 +32,7 @@
 - **Node 2**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-19/ESsKHmX07.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-19/ESsKHmX07.mp4)
 - **ENTREGABLE 2:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-22/HGhVFBS3l.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-22/HGhVFBS3l.mp4)
 
-## Modulo 3
+## Modulo 3:
 
 - **Intro React**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-22/SChIpLEyb.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-22/SChIpLEyb.mp4)
 - **Config Eslint-prettier** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-23/wwLiQJ49T.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-11-23/wwLiQJ49T.mp4)
@@ -61,6 +61,7 @@
     - **Ejercicio ThemeContext**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/FVOvEiR0G.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/FVOvEiR0G.mp4)
 - **Redux**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/xl9HraQB1.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-11/xl9HraQB1.mp4)
 - **Redux-Thunk**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/j4_BDOX1i.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/j4_BDOX1i.mp4)
+- [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/k_U5g-7zP.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-12/k_U5g-7zP.mp4)
 - **ENTREGABLES 4:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/EUItUI9MT.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2021-12-06/EUItUI9MT.mp4)
 
 ## Modulo 5:
@@ -93,4 +94,34 @@
 - **Envio de email con NodeMailer:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/TB5XxW5I1.mp4)
 - **Sendgrid y verification de cuenta:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-14/qF38Z-3PQ.mp4)
 - **Payments Conceptos**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/5mGOTE_d8.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/5mGOTE_d8.mp4)
+- **Crear token para la tarjeta de credito y guardar la información en el modelo de usuario:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-18/NRheOwpYa.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-18/NRheOwpYa.mp4)
+- **Realizar un pago con Epayco:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-18/lv2QFSlwT.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-18/lv2QFSlwT.mp4)
+- **Mercado Pago (german)**: [https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-17/0z0rhDhNe.mp4](https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-17/0z0rhDhNe.mp4)
+- **Implementación Pagos** 1 **(german)**: [https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-19/2yR8EQghQ.mp4](https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-19/2yR8EQghQ.mp4)
+- **Implementación Pagos 2** **(german)**: [https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-19/Fk4n_vr7l.mp4](https://makeitreal.s3.amazonaws.com/videos/81108391847/2022-01-19/Fk4n_vr7l.mp4)
+- **Testing e2e con cypress.js:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-19/W9VtCsmrx.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-19/W9VtCsmrx.mp4)
 - **ENTREGABLE 7:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/RdsPAUrPG.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-17/RdsPAUrPG.mp4)
+
+## Modulo 8:
+
+- **Integración y despliegues continuos:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-20/QGBOJPxBZ.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-20/QGBOJPxBZ.mp4)
+- **Github Actions - RN Project:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-20/DhVoTLjdg.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-20/DhVoTLjdg.mp4)
+- **Heroku - CircleCi**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-21/F1o-1xZKu.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-21/F1o-1xZKu.mp4)
+- **Storybook**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-24/GPRyXQ3KP.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-24/GPRyXQ3KP.mp4)
+- **OAUTH2 con Auth0**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-25/0Tyl45mHa.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-25/0Tyl45mHa.mp4)
+- **Typescript React**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-26/Oo24XiRNx.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-26/Oo24XiRNx.mp4)
+- T**ypescript React II**:[https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-26/nsGhGqgCf.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-26/nsGhGqgCf.mp4)
+- **Documentar una API Express con Swagger UI y JSDoc**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-27/0oNvq-Sto.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-27/0oNvq-Sto.mp4)
+- **ENTREGABLE 8**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-24/8w6L6e0pn.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-24/8w6L6e0pn.mp4)
+
+## Modulo 9:
+
+- **Websockets**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-28/BNkSVwQjw.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-28/BNkSVwQjw.mp4)
+- **Socket React - Node Folder:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-31/gOKKR-LKW.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-31/gOKKR-LKW.mp4)
+- **Introduction a Docke**r: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-01/41ipB_v0c.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-01/41ipB_v0c.mp4)
+- **Docker y MongoDB (shell):** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-01/wJ2kzsRIw.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-01/wJ2kzsRIw.mp4)
+- **Redis Introduccion con Nodejs:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-02/DbXFi4YRg.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-02/DbXFi4YRg.mp4)
+- **Redis con promesas:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-02/SNlxcmD7G.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-02/SNlxcmD7G.mp4)
+- **Leaflet Map con redis** : https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-01-28/kw3zHqOmu.mp4
+- **Introduccion a TailwindCSS:** [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-03/674c1JG7g.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-03/674c1JG7g.mp4)
+- **PRE-DEMO**: [https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-04/Y-bWJxJyL.mp4](https://makeitreal.s3.amazonaws.com/videos/83633232211/2022-02-04/Y-bWJxJyL.mp4)
