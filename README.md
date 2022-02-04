@@ -87,3 +87,30 @@ Deberás presentar y aprobar las siguienes misiones:
 4. Assesment Github.
 5. Proyecto Grupal.
 6. Proyecto Individual.
+
+Los lineamientos para los proyectos individuale y grupales son estos: 
+
+**El Proyecto Grupal debe tener:**
+
+- Registro y autenticación de usuarios.
+- Almacenar información en una base de datos (MongoDB).
+- El backend debe estar implementado en Node.js (Express) y el frontend en React.
+- Debe incluir carga de imágenes y envío de correos.
+- Debe tener al menos una de las siguientes funcionalidades:
+    - Pagos
+    - Presentar información en un mapa.
+    - Tiempo Real (Web Sockets).
+- Debe estar desplegada en Internet (Netllify, Heroku, Vercel)
+- Debe al menos tener pruebas end-to-end con Cypress.
+
+**El Proyecto Individual:**
+
+- Utilizar react.js (mobile o web) y/o node.js
+- Autenticación de usuarios.
+- Debe incluir carga de imágenes.
+- Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
+    1. Introducción (Nombre del proyecto, URL’s).
+    2. Descripción de la aplicación.
+    3. Metodología (Jira, Github, SCRUM, sprintes)
+    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+    5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
