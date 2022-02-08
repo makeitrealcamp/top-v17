@@ -12,10 +12,13 @@ export const styles = StyleSheet.create({
     height: 200,
     borderRadius: 100,
   },
+  textLabel: {
+    color: 'gray'
+  },
   input: {
     width: 200,
     height: 40,
-    borderColor: 'gray',
+    borderColor: 'lightgray',
     borderWidth: 1,
   },
   button: {

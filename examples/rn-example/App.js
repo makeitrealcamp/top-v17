@@ -2,11 +2,13 @@ import { useState } from 'react';
 import { View, Switch, Text, Image, TextInput, Button, Platform, Alert, TouchableOpacity } from 'react-native'
 import * as ImagePicker from 'expo-image-picker';
 
+import Input from './Input';
 import { styles } from './App.styles'
 
 function App() {
   const [image, setImage] = useState(null);
   const [text, setText] = useState('Press me')
+  const [password, setPassword] = useState('')
   const [number, setNumber] = useState(0)
   const [isEnabled, setIsEnabled] = useState(false);
   const toggleSwitch = () => setIsEnabled(previousState => !previousState);
@@ -14,6 +16,13 @@ function App() {
   const handleChange = (text) => {
     setText(text)
   }
+
+  const handleChangePassword = (text) => {
+    setText(text)
+  } 
+  const handleChangePhone = (text) => {
+    setText(text)
+  } 
 
   const onChangeNumber = (num) => {
     setNumber(num)
@@ -56,10 +65,11 @@ function App() {
           style={styles.image}
         />
       </TouchableOpacity>
-      <TextInput
-        style={styles.input}
-        onChangeText={handleChange}
-      />
+      <Input labelText='your email' handleChange={handleChangePassword}/>
+      <Input labelText='your password' handleChange={handleChangePassword} isSecureTextEntry/>
+      <Input labelText='your phone' handleChange={handleChangePassword}/>
+      
+      
 
       {
         Platform.OS === 'ios'
