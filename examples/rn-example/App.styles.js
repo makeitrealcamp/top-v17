@@ -15,8 +15,8 @@ export const styles = StyleSheet.create({
   input: {
     width: 200,
     height: 40,
-    borderColor: 'gray',
-    borderWidth: 1,
+    borderColor: 'lightgray',
+    borderBottomWidth: 1,
   },
   button: {
     alignItems: "center",

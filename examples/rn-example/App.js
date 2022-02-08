@@ -56,6 +56,12 @@ function App() {
           style={styles.image}
         />
       </TouchableOpacity>
+      <Text>YOUR EMAIL</Text>
+      <TextInput style={styles.input} value="maysasha@gmail.com"/>
+
+
+
+
       <TextInput
         style={styles.input}
         onChangeText={handleChange}
