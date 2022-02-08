@@ -19,7 +19,11 @@ export const styles = StyleSheet.create({
     width: 200,
     height: 40,
     borderColor: 'lightgray',
+<<<<<<< HEAD
     borderWidth: 1,
+=======
+    borderBottomWidth: 1,
+>>>>>>> a3ed1193663331cf1f4cce3dac4abd7502b3d641
   },
   button: {
     alignItems: "center",
