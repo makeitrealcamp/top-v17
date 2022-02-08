@@ -4,7 +4,7 @@ import { styles } from './App.styles'
 
 const Input = ({labelText, handleChange, isSecureTextEntry}) => {
   return (
-    <View>
+    <View style={styles.view}>
       
     <Text style={styles.textLabel}>{labelText}</Text>
       <TextInput

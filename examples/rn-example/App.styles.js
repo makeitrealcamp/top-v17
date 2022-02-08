@@ -13,13 +13,18 @@ export const styles = StyleSheet.create({
     borderRadius: 100,
   },
   textLabel: {
-    color: 'gray'
+    color: 'lightgray',
+    textTransform: 'uppercase',
+    fontSize: 10,
   },
   input: {
     width: 200,
     height: 40,
     borderColor: 'lightgray',
-    borderWidth: 1,
+    borderBottomWidth: 1,
+  },
+  view: {
+    paddingBottom: 10,
   },
   button: {
     alignItems: "center",
