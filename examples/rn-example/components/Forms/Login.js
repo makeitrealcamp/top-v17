@@ -6,9 +6,11 @@ import {
   StyleSheet,
   TouchableOpacity,
 } from 'react-native';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+
+import useAuth from '../../hooks/useAuth';
 
 const LoginForm = ({ navigation }) => {
+  const { isAuthenticated, storeData } = useAuth();
   const [form, setForm] = React.useState(null);
 
   const handleChangeText = (field, text) => {
@@ -19,24 +21,16 @@ const LoginForm = ({ navigation }) => {
   };
 
   React.useEffect(() => {
-    const getData = async () => {
-      try {
-        const value = await AsyncStorage.getItem('@kmz/rick-and-morty');
-        if (value) {
-          navigation.navigate('Home');
-        }
-      } catch (e) {
-        // error reading value
-      }
-    };
-    getData();
-  });
+    if (isAuthenticated) {
+      navigation.navigate('Home');
+    }
+  }, []);
 
   const handleSubmit = async () => {
     try {
       const token = 'el-token'
       // save token to local storage
-      await AsyncStorage.setItem('@kmz/rick-and-morty', token);
+      await storeData(token);
 
       navigation.navigate('Home');
     } catch (error) {

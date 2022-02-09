@@ -3,6 +3,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome } from '@expo/vector-icons';
 
+import useAuth from './hooks/useAuth';
 import LoginScreen from './screens/Login';
 import CharactersScreen from './screens/Characters';
 import LocationsScreen from './screens/Locations';
@@ -32,20 +33,27 @@ function Landing() {
 }
 
 export default function App() {
+  const { isAuthenticated } = useAuth()
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen
-          name="Login"
-          options={{ headerShown: false }}
-          component={LoginScreen}
-        />
-
-        <Stack.Screen
-          name="Home"
-          component={Landing}
-          options={{ headerShown: false }}
-        />
+        {
+          isAuthenticated
+          ? (
+            <Stack.Screen
+              name="Home"
+              component={Landing}
+              options={{ headerShown: false }}
+            />
+          )
+          : (
+            <Stack.Screen
+              name="Login"
+              options={{ headerShown: false }}
+              component={LoginScreen}
+            />
+          )
+        }
       </Stack.Navigator>
     </NavigationContainer>
   );
