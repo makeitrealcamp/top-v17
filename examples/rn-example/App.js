@@ -1,122 +1,52 @@
-import { useState } from 'react';
-import { View, Switch, Text, Image, TextInput, Button, Platform, Alert, TouchableOpacity } from 'react-native'
-import * as ImagePicker from 'expo-image-picker';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { FontAwesome } from '@expo/vector-icons';
 
-import Input from './Input';
-import { styles } from './App.styles'
+import LoginScreen from './screens/Login';
+import CharactersScreen from './screens/Characters';
+import LocationsScreen from './screens/Locations';
+import EpisodesScreen from './screens/Episodes';
 
-function App() {
-  const [image, setImage] = useState(null);
-  const [text, setText] = useState('Press me')
-  const [password, setPassword] = useState('')
-  const [number, setNumber] = useState(0)
-  const [isEnabled, setIsEnabled] = useState(false);
-  const toggleSwitch = () => setIsEnabled(previousState => !previousState);
+import iconsName from './utils/icons';
 
-  const handleChange = (text) => {
-    setText(text)
-  }
+const Stack = createNativeStackNavigator();
+const Tab = createBottomTabNavigator();
 
-  const handleChangePassword = (text) => {
-    setText(text)
-  } 
-  const handleChangePhone = (text) => {
-    setText(text)
-  } 
-
-  const onChangeNumber = (num) => {
-    setNumber(num)
-  }
-
-  const pickImage = async () => {
-    const permissionResult = await ImagePicker.requestMediaLibraryPermissionsAsync();
-
-    if (permissionResult.granted === false) {
-      alert("Permission to access camera roll is required!");
-      return;
-    }
-
-    const result = await ImagePicker.launchImageLibraryAsync({
-      mediaTypes: ImagePicker.MediaTypeOptions.All,
-      allowsEditing: true,
-      aspect: [4, 3],
-      quality: 1,
-    });
-
-    console.log(result);
-
-    if (!result.cancelled) {
-      setImage(result);
-    }
-  }
-
+function Landing() {
   return (
-    <View style={styles.container}>
-      <TouchableOpacity
-        style={styles.button}
-        onPress={pickImage}
-      >
-        <Image
-          source={{
-            uri: !image
-              ?'https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg'
-              : image.uri
-          }}
-          style={styles.image}
-        />
-      </TouchableOpacity>
-      <Input labelText='your email' handleChange={handleChangePassword}/>
-      <Input labelText='your password' handleChange={handleChangePassword} isSecureTextEntry/>
-      <Input labelText='your phone' handleChange={handleChangePassword}/>
-      
-      
+    <Tab.Navigator
+      screenOptions={({ route }) => ({
+        tabBarIcon: ({ focused, color, size }) => {
+          const iconName = iconsName(route.name);
 
-      {
-        Platform.OS === 'ios'
-        ? (<TextInput
-            style={styles.input}
-            onChangeText={onChangeNumber}
-            placeholder="useless placeholder"
-            keyboardType="numeric"
-            keyboardAppearance="dark"
-          />)
-        : (<TextInput
-            style={styles.input}
-            onChangeText={onChangeNumber}
-            placeholder="useless placeholder"
-            keyboardType="numeric"
-            autoComplete='name'
-          />)
-      }
-
-
-
-      <Button
-        title="Learn More"
-        color="#841584"
-        onPress={pickImage}
-        accessibilityLabel="Learn more about this purple button"
-
-      />
-
-      {/* <Switch
-        // trackColor={{ false: "#767577", true: "#81b0ff" }}
-        // thumbColor={isEnabled ? "#f5dd4b" : "#f4f3f4"}
-        ios_backgroundColor="#3e3e3e"
-        onValueChange={toggleSwitch}
-        value={isEnabled}
-      /> */}
-
-      {/* <Image
-        source={{
-          uri: 'https://reactnative.dev/docs/assets/p_cat2.png',
-        }}
-        style={styles.image}
-      /> */}
-    </View>
+          return <FontAwesome name={iconName} size={size} color={color} />;
+        },
+      })}
+    >
+      <Tab.Screen name="Characters" component={CharactersScreen} />
+      <Tab.Screen name="Episodes" component={EpisodesScreen} />
+      <Tab.Screen name="Locations" component={LocationsScreen} />
+    </Tab.Navigator>
   );
 }
 
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen
+          name="Login"
+          options={{ headerShown: false }}
+          component={LoginScreen}
+        />
 
-
-export default App;
+        <Stack.Screen
+          name="Home"
+          component={Landing}
+          options={{ headerShown: false }}
+        />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
