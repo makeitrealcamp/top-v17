@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
+import { loginRequest } from '../../services/api';
 import useAuth from '../../hooks/useAuth';
 
 const LoginForm = ({ navigation }) => {
@@ -28,8 +29,9 @@ const LoginForm = ({ navigation }) => {
 
   const handleSubmit = async () => {
     try {
-      const token = 'el-token'
-      // save token to local storage
+      const response = await loginRequest(form);
+      const token = await response.json();
+      // // save token to local storage
       await storeData(token);
 
       navigation.navigate('Home');

@@ -8,7 +8,7 @@ const useAuth = () => {
     try {
       const jsonValue = await AsyncStorage.getItem('@storage_Key')
       const data = jsonValue != null ? JSON.parse(jsonValue) : null;
-      setAuthenticated(!!data)
+      setAuthenticated(!!data);
     } catch(e) {
       console.error('error reading value', e)
     }

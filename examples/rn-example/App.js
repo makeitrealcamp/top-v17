@@ -2,6 +2,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome } from '@expo/vector-icons';
+// import AsyncStorage from '@react-native-async-storage/async-storage';
+// import { useEffect } from 'react';
 
 import useAuth from './hooks/useAuth';
 import LoginScreen from './screens/Login';
@@ -34,6 +36,10 @@ function Landing() {
 
 export default function App() {
   const { isAuthenticated } = useAuth()
+
+  // useEffect(() => {
+  //   AsyncStorage.removeItem('@storage_Key')
+  // }, [])
   return (
     <NavigationContainer>
       <Stack.Navigator>
