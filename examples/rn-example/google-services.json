@@ -1,5 +1,39 @@
 {
   "project_info": {
-    "NOTA": "OBTENER ESTE ARCHIVO DESDE la consola de firebase"
-  }
+    "project_number": "542207980841",
+    "project_id": "rn-top-makeitreal",
+    "storage_bucket": "rn-top-makeitreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542207980841:android:c6f3df8d130869db21b338",
+        "android_client_info": {
+          "package_name": "com.makeitreal.rnexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542207980841-t46cpn1ntsouet2ruevqoclbkudai7lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8DcazbFpvQaI1yzv70sE8R6m-cueVYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542207980841-t46cpn1ntsouet2ruevqoclbkudai7lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }

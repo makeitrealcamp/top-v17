@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.filters {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filters__item {
+  display: flex;
+  flex-direction: space-between;
+}
+
+.auth-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+form {
+  padding: 20px;
+}
+
+.form-group label {
+  display: block;
+}
