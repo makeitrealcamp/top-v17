@@ -12,6 +12,15 @@ const typeDefs = gql`
     updatedAt: String
   }
 
+  type User {
+    _id: ID!
+    email: String!
+    password: String!
+    username: String!
+    createdAt: String
+    updatedAt: String
+  }
+
   type Query {
     hello: String!
 
@@ -27,11 +36,31 @@ const typeDefs = gql`
     author: String!
   }
 
+  input CreateUserInput {
+    email: String!
+    password: String!
+    username: String!
+  }
+
+  input LoginUserInput {
+    email: String!
+    password: String!
+  }
+
+  type LoginPayload {
+    user: User
+    token: String!
+  }
+
   type Mutation {
     "Add a new book to the data source"
     addBook(input: BookInput!): Book
     #addBook(title: String!, author: String!): Book
 
+    "Create a new user"
+    createAccount(input: CreateUserInput!): User
+    "Log in a user"
+    logInUser(input: LoginUserInput!): LoginPayload!
   }
 
   enum BookType {

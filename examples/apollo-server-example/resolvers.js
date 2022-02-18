@@ -1,4 +1,5 @@
 const { addBookHandler, getAllBooksHandler, getSingleBookHandler } = require('./book/book.controller')
+const { createAccountHandler, logInUserHandler } = require('./user/user.controller')
 
 const resolvers = {
   Query: {
@@ -8,6 +9,8 @@ const resolvers = {
   },
   Mutation: {
     addBook: addBookHandler,
+    logInUser: logInUserHandler,
+    createAccount: createAccountHandler,
   }
 }
 
